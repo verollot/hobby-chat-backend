@@ -1,5 +1,0 @@
-runtime: go118
-main: ./app
-env_variables:
-  DATABASE_URL: "postgresql://livechat:OHneJs-l4yhvHnL5-MjaKw@cross-beaver-4081.7tc.cockroachlabs.cloud:26257/livechat?sslmode=verify-full"
-  PORT: 8080
